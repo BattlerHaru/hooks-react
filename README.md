@@ -1,3 +1,15 @@
+# List of Hooks P1
+
+- useState.
+- useCounter (custom).
+- useEffect.
+- useForm (custom).
+- useFetch (custom).
+- useRef
+- useLayout
+- useMemo (hook & example)
+- useCallback
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
